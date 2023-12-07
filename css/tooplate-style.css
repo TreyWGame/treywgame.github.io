@@ -484,6 +484,13 @@ b, strong {
   .about-image {
     margin-top: 4em;
   }
+  .about-image
+  {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border:10px solid #1f1f1f;
+  }
 
   .mobile-mt-2,
   .contact-form {
